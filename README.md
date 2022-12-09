@@ -1,6 +1,6 @@
-## 3D Projections for Wireframe Rendering
+# 3D Projections for Wireframe Rendering
 
-# Tseng Yang, Owen Xiong, Matt Westerhaus 
+### <i>Tseng Yang, Owen Xiong, Matt Westerhaus </i>
 
 This is a project that I worked on with a team of students in my computer graphics class in Spring 2022. In this project we were tasked with creating models in 2D space that appeared as if they were 3D. Here are the steps that we went through to achieve this:
 
@@ -12,7 +12,7 @@ This is a project that I worked on with a team of students in my computer graphi
 6) The program also has a front and back clipping plane too. When the model hits these planes, they get cut off and points are created where the model hits the plane and appears flat there. 
 
 
-# Example of how to add create each shape:
+## Example of how to add create each shape:
 
 1) Cube  
 {  
@@ -98,7 +98,7 @@ This is a project that I worked on with a team of students in my computer graphi
       }   
 }  
 
-# How to run the program in Visual Studio.
+## How to run the program in Visual Studio.
 
 After inputting the user's desired shapes into the code in "renderscene.js", to run the program one must simply
 1) Download Microsoft's Live Share extension
